@@ -1,1 +1,17 @@
+# Django specific files
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+/static/
 *.pyc\n__pycache__/\nenv/\n.env\n*.sqlite3\n
+
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv
